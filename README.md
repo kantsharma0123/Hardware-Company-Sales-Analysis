@@ -1,4 +1,4 @@
-# Hardware-Sales-Powerbi-Project
+# Hardware Company Sales Analysis
 
 <h1> Project Description</h1>
 In this project I have tried to show the overall business analysis for a hardware company sales in India. It shows various curicial parameters like:
