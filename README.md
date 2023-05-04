@@ -23,6 +23,9 @@ I have also attached a video in this repository for giving an overview of the pr
 ![profit Analysis](https://user-images.githubusercontent.com/51090958/236295985-04c163fd-f02d-4007-bc7b-3f8741b165d1.jpg)
 
 
+![Performance Review](https://user-images.githubusercontent.com/51090958/236296586-05920a14-0236-4651-8207-f678b653c334.jpg)
+
+
 
 
 
