@@ -1,0 +1,15 @@
+1. Please download the  db_dump_version_2 on your system.
+
+2. Now open Powerbi and then click Get Data -> more -> Database -> MySQL database
+
+3. Now enter your Server name  and the DataBase in which you have stored the  tables
+
+4. Now please enter your credentials (username and password) to form the connection.
+
+5. Once all the steps are completed you'll be able to use the data in powerbi
+
+6. Please load all the tables in your powerbi 
+
+6. If you are facing any issues you may refer to the following video or send me a mail  at dhruvsharma0715@gmail.com
+
+https://www.youtube.com/watch?v=MVtLLkZV5Vs
