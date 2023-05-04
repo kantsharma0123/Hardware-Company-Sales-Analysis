@@ -20,6 +20,13 @@ I have also attached a video in this repository for giving an overview of the pr
 ![Key Insights](https://user-images.githubusercontent.com/51090958/236295713-9422445c-0a77-48e8-99cc-2aceacabcaa5.jpg)
 
 
+![profit Analysis](https://user-images.githubusercontent.com/51090958/236295985-04c163fd-f02d-4007-bc7b-3f8741b165d1.jpg)
+
+
+
+
+
+
 
 
 
